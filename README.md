@@ -2,11 +2,11 @@
 Projects Completed for TripleTen BIA Course
 
 | Project number | Title | Description |
-| :-----------: | ----------- |----------- |
-| 1 | A first look at Business Data Analysis | The project task was to analyze user data and find possible causes for the company’s low CR and retention rate. |
-| 2 | Data Collection and Storage | The project task was to prepare a report that gives insight into the shopping habits of Instacart customers. |
-| 3 | Business Analytics | The project task was to study the sales funnel and analyze the results of an A/B test for a food startup. |
-| 4 | Data Visualization with Tableau | The project task was to help a chain of fitness clubs develop a customer retention strategy. |
-| 5 | Storytelling with Data | The project task was to apply acquired skills to a comprehensive project, addressing real-world business challenges through data analysis and visualization. |
-| 6 | Power BI | The project task was to develop effective communication skills to present analytical findings to stakeholders, emphasizing clarity and actionable insights. |
-| 7 | Final Project | The project task was to prepare a report and visual that analyzed revenue from a leading food delivery company |
+| :-----------: | ------------------------------- | ------------------------------------------------------------ |
+| 1 | Spreadsheet Data Analytics | Used Google Sheets to uncover insights into the Manhattan rental market. |
+| 2 | Data Collection and Storage (SQL) | Analyzed ride-sharing app data to identify correlations between ride frequency and various influencing factors. |
+| 3 | Business Analytics | Investigated sales data from an e-commerce website to diagnose issues in the customer retention funnel. |
+| 4 | Data Visualization with Tableau | Created visual dashboards to help a retail chain identify strategies for increasing profitability. |
+| 5 | Storytelling with Data | Applied BI skills to analyze and present findings on a high return rate problem for a retail store. |
+| 6 | Power BI | Explored Shopify data to determine key drivers behind the platform’s success. |
+| 7 | Final Project | Delivered a comprehensive report and visualizations analyzing revenue trends for a major food delivery company. |
